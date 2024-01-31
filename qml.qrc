@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/FileChoser.qml</file>
+        <file>qml/Logger.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/QmlLiveLoader.qml</file>
+        <file>qml/ThemeConfig.qml</file>
+        <file>qml/XGroupBox.qml</file>
+    </qresource>
+</RCC>
